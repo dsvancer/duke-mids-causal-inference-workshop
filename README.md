@@ -1,11 +1,12 @@
 # Welcome
 
-<center>
+<p align="center">
 <img 
   src="/assets/mids_logo_white.png" 
   alt="Base Binder" 
-  style="width:400px;height:auto;"
-> 
+  style="width:350px;height:auto;"
+>
+</p>
 
 # About the Workshop
 **Abstract**: 
