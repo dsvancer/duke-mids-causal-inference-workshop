@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+jinja2
+econml
+doubleml
+ipykernel

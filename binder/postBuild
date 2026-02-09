@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Create the target directory for JupyterLab settings
+mkdir -p ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings
+
+# Copy the overrides file from the binder/ directory to the target directory
+cp binder/overrides.json ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings/
