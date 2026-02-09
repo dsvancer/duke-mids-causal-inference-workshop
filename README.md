@@ -4,7 +4,7 @@
 <img 
   src="/assets/mids_logo_white.png" 
   alt="Base Binder" 
-  style="width:auto;height:auto;"
+  style="width:400px;height:auto;"
 > 
 
 # About the Workshop
@@ -22,7 +22,7 @@ Access the material at the following URL
 
 <a 
   href="https://mybinder.org/v2/gh/dsvancer/duke-mids-causal-inference-workshop/main?urlpath=lab/tree/welcome.ipynb" target="_blank">
-  https://mybinder.org/v2/gh/dsvancer/binder-base-repo/main?urlpath=lab/tree/welcome.ipynb
+  https://mybinder.org/v2/gh/dsvancer/duke-mids-causal-inference-workshop/main?urlpath=lab/tree/welcome.ipynb
 </a>
 
 ### Creating a local virtual environment (MacOS)
