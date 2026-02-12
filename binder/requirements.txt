@@ -9,4 +9,3 @@ jinja2
 econml
 doubleml
 ipykernel
-jupyterlab-rise
