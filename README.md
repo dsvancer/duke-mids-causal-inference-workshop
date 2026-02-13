@@ -1,5 +1,9 @@
 # Welcome
 
+Hosted by Duke University, Duke campus, Gross Hall
+
+<br>
+
 <p align="center">
 <img 
   src="/assets/mids_logo_white.png" 
