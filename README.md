@@ -48,3 +48,17 @@ In the terminal, navigate to the main folder `duke-mids-causal-inference-worksho
 - pip install --upgrade pip
 - pip install -r binder/requirements.txt
 
+## Learning More About Causal Inference
+Below are free online resources to build foundational knowledge of causal reasoning and applied causal ML. I highly recommend them!
+- [The Effect](https://theeffectbook.net/)
+  - **The Effect** is a book intended to introduce the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. It focuses heavily on causal reasoning, which is the most important skill to develop before jumping into machine learning and statistical modeling
+- [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+  - A light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as can be found
+- [Causal Artifical Intelligence](https://causalai-book.net/)
+  - This textbook offers a comprehensive treatment of the principles, algorithms, and tools necessary for building causally intelligent systems. It bridges probability theory, causal inference, machine learning, and decision-making under uncertainty, providing a unified roadmap for addressing fundamental challenges in modern AI, including safety, generalization, robustness, and explainability
+- [Modern Causal Inference](https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html)
+  - We're not in Kansas anymore...
+
+
+
+
