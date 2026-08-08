@@ -1,0 +1,12 @@
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
